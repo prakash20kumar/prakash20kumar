@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash20kumar&label=Profile%20views&color=0e75b6&style=flat" alt="prakash20kumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash20kumar" alt="prakash20kumar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prakash99kumar" target="blank"><img src="https://img.shields.io/twitter/follow/prakash99kumar?logo=twitter&style=for-the-badge" alt="prakash99kumar" /></a> </p>
 
 - 🔭 I’m currently working on **EzySchooling**
