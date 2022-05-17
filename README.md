@@ -22,7 +22,7 @@
 <a href="https://twitter.com/prakash99kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakash99kumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakash20kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash20kumar/" height="30" width="40" /></a>
 <a href="https://fb.com/prakash20kumar2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakash20kumar2000/" height="30" width="40" /></a>
-<a href="https://instagram.com/prakash99kumar1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash99kumar1999/" height="30" width="40" /></a>
+<a href="https://instagram.com/prakash_kumar.20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash99kumar1999/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
