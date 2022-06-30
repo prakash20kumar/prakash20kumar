@@ -13,7 +13,7 @@
 
 - 👉 All my projects are available at [https://github.com/prakash20kumar](https://github.com/prakash20kumar)
 
-- 💬 Ask me about **ReactJs, VueJs, NodeJs, MongoDB, ExpressJS, AWS**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJs, VueJs, NodeJs, MongoDB, ExpressJS, AWS**
 
 - 📫 How to reach me **prakash20kumar2000@gmail.com**
 
