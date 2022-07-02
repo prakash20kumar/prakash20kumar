@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prakash99kumar" target="blank"><img src="https://img.shields.io/twitter/follow/prakash99kumar?logo=twitter&style=for-the-badge" alt="prakash99kumar" /></a> </p>
 
-- 🔭 I’m currently working on **EzySchooling**
+- 🔭 I’m currently working on **Ezyschooling**
 
 - 🌱 I’m currently learning **programming and web devlopment**
 
