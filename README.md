@@ -1,8 +1,6 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prakash Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<iframe src="https://embed.lottiefiles.com/animation/79902"></iframe>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash20kumar&label=Profile%20views&color=0e75b6&style=flat" alt="prakash20kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prakash99kumar" target="blank"><img src="https://img.shields.io/twitter/follow/prakash99kumar?logo=twitter&style=for-the-badge" alt="prakash99kumar" /></a> </p>
