@@ -32,4 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash20kumar&show_icons=true&locale=en" alt="prakash20kumar" /></p>
 
+<p>![](https://github-readme-stats.vercel.app/api/wakatime?username=prakash20kumar&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash20kumar&" alt="prakash20kumar" /></p>
